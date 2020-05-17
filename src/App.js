@@ -25,7 +25,7 @@ class App extends Component {
         <Menu dishes={this.state.dishes} />
       </div>
     );
-  }
+  };
   
 }
 
